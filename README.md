@@ -25,3 +25,9 @@ as open source.
 I am not a lawyer, and this is not legal advice.
 
 Consult a qualified lawyer before choosing a license.
+
+## License
+
+Copying and distribution of this file, with or without modification, are
+permitted in any medium without royalty provided the copyright notice and this
+notice are preserved.  This file is offered as-is, without any warranty.
